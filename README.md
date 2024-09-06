@@ -5,7 +5,7 @@ git config --global user.email "someone@email.com"
 -----------------------------------------------------
 //--To Upload a Folder--
 git init
-git add /<Folder Name>      //if Folder and if add file only file name with extension
+git add .                   //if Folder and if add file only file name with extension
 git commit -m "commit message"
 git branch -M main
 git remote add origin <Github link>
