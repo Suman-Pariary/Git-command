@@ -7,7 +7,7 @@ git config --global user.email "someone@email.com"
 git init
 git add .                   //if Folder and if add file only file name with extension
 git commit -m "commit message"
-git branch -M main
+git branch -M main         //if branch is master/main see that
 git remote add origin <Github link>
 git push -u origin main    //if rejected/error go to next part
 -----------------------------------------------------
