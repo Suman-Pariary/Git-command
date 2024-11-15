@@ -17,3 +17,8 @@ git add .
 git commit -m "Commit in New Branch"
 git push -u origin my-new-branch
 -----------------------------------------------------
+//--If you want to push new changes
+git add .
+git commit -m "Your commit message here"
+git push
+-----------------------------------------------------
