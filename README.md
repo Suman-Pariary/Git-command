@@ -22,3 +22,6 @@ git add .
 git commit -m "Your commit message here"
 git push
 -----------------------------------------------------
+//--If we want to clone a git repo
+git clone <repo-url>
+-----------------------------------------------------
